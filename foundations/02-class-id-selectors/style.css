@@ -1,11 +1,11 @@
 .first {
-    background-color: rgb(rgb(242, 91, 91), rgb(255, 255, 255), rgb(255, 255, 255));
+    background-color: rgb(250, 170, 170);
     font-family: Verdana, DejaVu Sans, sans-serif;
 
 }
 
 #win {
-    color: rgb(rgb(0, 0, 0), rgb(0, 0, 0), blue);
+    color: rgb( 0, 0, 255);
     font-size: 36px;
 }
 
@@ -14,7 +14,7 @@
 }
 
 #lose {
-    background-color: rgb(rgb(207, 202, 202), rgb(0, 255, 0), rgb(206, 206, 207));
+    background-color: rgb(109, 205, 109);
     font-size: 24px;
-    font-style: bold;
+    font-weight: bold;
 }
