@@ -12,3 +12,9 @@
 .cooler {
     font-size: 24px;
 }
+
+#lose {
+    background-color: rgb(rgb(207, 202, 202), rgb(0, 255, 0), rgb(206, 206, 207));
+    font-size: 24px;
+    font-style: bold;
+}
